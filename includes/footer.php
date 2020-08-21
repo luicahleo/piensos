@@ -11,16 +11,17 @@
                                 <div class="f-contact-info">
                                     <div class="single-f-contact-info">
                                         <i class="fa fa-home"></i>
-                                        <span>Pabellón de Uruguay, Avda. de Chile s/n
-                                            41013 - SEVILLA </span>
+                                        <span>Avenida de la Integracion <br>
+                                            (Prado Quillacollo) #13 <br> Quillacollo - Cochabamba - Bolivia
+                                             </span>
                                     </div>
                                     <div class="single-f-contact-info">
                                         <i class="fa fa-envelope-o"></i>
-                                        <span><a href="#">intercambiolinguistico@us.es</a></span>
+                                        <span><a href="#">informacion@lacasadelpienso.org</a></span>
                                     </div>
                                     <div class="single-f-contact-info">
                                         <i class="fa fa-phone"></i>
-                                        <span> 954 48 60 16</span>
+                                        <span> 65728233 </span>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +55,7 @@
                         <div class="copyright">
                             <p>
                                 Copyright © 2020
-                                <a href="#">SACU</a> . Todos los derechos reservados.
+                                <a href="#">Telecomunicaciones Trajano inc.</a> Todos los derechos reservados.
                             </p>
                             <p>Designed by: Luis Rolando Cahuana Leon</p>
                             <p>Seville - Spain - 2020</p>
