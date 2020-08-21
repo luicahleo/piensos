@@ -5,8 +5,8 @@
                 <div class="col-lg-6 col-md-7 col-12 col-sm-8">
                     <div class="header-contact">
                         <ul>
-                            <li><i class="fa fa-phone"></i> 626 923 178</li>
-                            <li><i class="fa fa-envelope-o"></i><a href="#">elleylui@gmail.com</a></li>
+                            <li><i class="fa fa-phone"></i> 65728233 </li>
+                            <li><i class="fa fa-envelope-o"></i><a href="#">informacion@lacasadelpienso.org</a></li>
                         </ul>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                 <div class="col-lg-2 col-md-6 col-4">
                     <div class="logo">
                         <a href="../index.php">
-                            <img alt="" src="index(original)_files/logo.png" width="100" height="40" >
+                            <img alt="" src="index(original)_files/logo.png" width="100" height="100" >
                         </a>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
 
                                     </li>
                                     <li><a href="../about-us.php"> QUIENES SOMOS  </a></li>
-                                    <li><a href="../citaprevia.php"> CITA PREVIA </a></li>
+                                    <li><a href="../citaprevia.php"> AGENDAR ENTREGA </a></li>
 
 
                                     <li><a href="../contact.php"> CONTACTANOS </a></li>
@@ -74,7 +74,7 @@
 
                             </li>
                             <li><a href="../about-us.php">QUIENES SOMOS</a></li>
-                            <li><a href="../citaprevia.php">CITA PREVIA</a></li>
+                            <li><a href="../citaprevia.php">AGENDAR ENTREGA</a></li>
                             <li><a href="../contact.php">contactanos</a></li>
 
                         </ul>
