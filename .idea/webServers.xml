@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="1009ff61-3a6f-474d-af56-6cf8a9ac27eb" name="solucian" url="http://solucian.ga">
-        <fileTransfer host="solucian.ga" port="21">
+      <webServer id="c49c78e6-8540-4813-9c1b-6ba68cab5c90" name="elleylui" url="http://elleylui.telecomunicacionestrajano.es">
+        <fileTransfer rootFolder="/httpdocs" host="elleylui.telecomunicacionestrajano.es" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
