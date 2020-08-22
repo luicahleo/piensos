@@ -16,7 +16,7 @@ require_once('includes/header.php');
                             <h1 class="animated" style="color: maroon">Porque es uno mas de la familia</h1>
                             <p class="animated" style="color: #880000"> tanto por tan poco!!! </p>
                             <div class="slider-btn">
-                                <a class="animated default-btn btn-green-color" href="citaprevia.php">agendar entrega</a>
+                                <a class="animated default-btn btn-green-color" href="shop.php">lista de productos</a>
                                 <a class="animated default-btn btn-white-color" href="contact.php">contactanos</a>
                             </div>
                         </div>

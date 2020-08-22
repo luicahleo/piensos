@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-lg-2 col-md-6 col-4">
                     <div class="logo">
-                        <a href="../index.php">
+                        <a href="index.php">
                             <img alt="" src="index(original)_files/logo.png" width="100" height="100" >
                         </a>
                     </div>
@@ -36,14 +36,14 @@
                         <div class="main-menu">
                             <nav>
                                 <ul>
-                                    <li><a href="../index.php"> INICIO </a>
+                                    <li><a href="index.php"> INICIO </a>
 
                                     </li>
-                                    <li><a href="../about-us.php"> QUIENES SOMOS  </a></li>
-                                    <li><a href="../citaprevia.php"> AGENDAR ENTREGA </a></li>
+                                    <li><a href="about-us.php"> QUIENES SOMOS  </a></li>
+                                    <li><a href="citaprevia.php"> AGENDAR ENTREGA </a></li>
 
 
-                                    <li><a href="../contact.php"> CONTACTANOS </a></li>
+                                    <li><a href="contact.php"> CONTACTANOS </a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -70,12 +70,12 @@
                 <div class="mobile-menu">
                     <nav id="mobile-menu-active" style="display: block;">
                         <ul class="menu-overflow">
-                            <li><a href="../index.php">INICIO</a>
+                            <li><a href="index.php">INICIO</a>
 
                             </li>
-                            <li><a href="../about-us.php">QUIENES SOMOS</a></li>
-                            <li><a href="../citaprevia.php">AGENDAR ENTREGA</a></li>
-                            <li><a href="../contact.php">contactanos</a></li>
+                            <li><a href="about-us.php">QUIENES SOMOS</a></li>
+                            <li><a href="citaprevia.php">AGENDAR ENTREGA</a></li>
+                            <li><a href="contact.php">contactanos</a></li>
 
                         </ul>
                     </nav>
