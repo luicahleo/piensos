@@ -7,21 +7,45 @@ require_once('includes/head.php');
 <?php
 require_once('includes/header.php');
 ?>
+
+
 <div class="breadcrumb-area">
     <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg-4.jpg);">
         <div class="container">
-            <h2>Lista de Productos</h2>
-            <p>seleccione uno de los productos para agregarlos al carrito de compras.</p>
+
+
+            <div class="slider-area">
+                <div class="slider-active owl-carousel">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-9 col-md-7 col-12 col-sm-12">
+                                    <div class="slider-content slider-animated-1 pt-230">
+                                        <h1 class="animated" >Lista de Productos</h1>
+                                        <p class="animated" > seleccione uno de los productos para agregarlos al carrito de compras. </p>
+                                        <div class="slider-btn">
+                                            <a class="animated default-btn btn-green-color fa fa-dog" href="shop.php"> Perros</a>
+                                            <a class="animated default-btn btn-green-color fa fa-cat" href="contact.php"> Gatos</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                </div>
+            </div>
+
         </div>
     </div>
     <div class="breadcrumb-bottom">
         <div class="container">
             <ul>
-                <li><a href="#">Home</a> <span><i class="fa fa-angle-double-right"></i>Productos</span></li>
+                <li><a href="index.php">Inicio</a> <span><i class="fa fa-angle-double-right"></i>Productos</span></li>
             </ul>
         </div>
     </div>
 </div>
+
 <div class="event-area pt-130 pb-130">
     <div class="container">
         <div class="row">
@@ -36,16 +60,16 @@ require_once('includes/header.php');
                                 <i class="fa fa-list-ul"></i>
                             </a>
                         </div>
-                        <p>Showing 1–12 of 20 result</p>
+                        <p>Mostrando productos en stock</p>
                     </div>
-                    <div class="shop-select">
-                        <select>
-                            <option value="">Sort By Popularity</option>
-                            <option value="">A to Z</option>
-                            <option value=""> Z to A</option>
-                            <option value="">In stock</option>
-                        </select>
-                    </div>
+<!--                    <div class="shop-select">-->
+<!--                        <select>-->
+<!--                            <option value="">Sort By Popularity</option>-->
+<!--                            <option value="">A to Z</option>-->
+<!--                            <option value=""> Z to A</option>-->
+<!--                            <option value="">In stock</option>-->
+<!--                        </select>-->
+<!--                    </div>-->
                 </div>
                 <div class="shop-bottom-area mt-30">
                     <div class="tab-content jump">
@@ -56,14 +80,14 @@ require_once('includes/header.php');
                                         <div class="product-img">
                                             <a href="single-product.html"><img src="assets/img/product/pro-1.jpg" alt=""></a>
                                             <span>Sale</span>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
+<!--                                            <div class="product-action">-->
+<!--                                                <ul>-->
+<!--                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>-->
+<!--                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>-->
+<!--                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>-->
+<!--                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>-->
+<!--                                                </ul>-->
+<!--                                            </div>-->
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
