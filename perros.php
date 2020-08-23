@@ -20,8 +20,7 @@ require_once('includes/header.php');
                             <div class="row">
                                 <div class="col-lg-9 col-md-7 col-12 col-sm-12">
                                     <div class="slider-content slider-animated-1 pt-230">
-                                        <h1 class="animated" >Lista de Productos</h1>
-                                        <p class="animated" > seleccione uno de los productos para agregarlos al carrito de compras. </p>
+                                        <h1 class="animated" >Productos para perros</h1>
                                         <div class="slider-btn">
                                             <a class="animated default-btn btn-green-color fa fa-dog" href="perros.php"> Perros</a>
                                             <a class="animated default-btn btn-green-color fa fa-cat" href="gatos.php"> Gatos</a>
@@ -40,7 +39,8 @@ require_once('includes/header.php');
     <div class="breadcrumb-bottom">
         <div class="container">
             <ul>
-                <li><a href="shop.php">Tienda</a> <span><i class="fa fa-angle-double-right"></i>Productos</span></li>
+                <li><a class="animated default-btn btn-green-color" href="shop.php">Todos los productos</a></li>
+
             </ul>
         </div>
     </div>
