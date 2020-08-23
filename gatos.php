@@ -10,7 +10,7 @@ require_once('includes/header.php');
 
 
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg-4.jpg);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/gatos_breadcrumb.jpg);">
         <div class="container">
 
 
@@ -20,7 +20,7 @@ require_once('includes/header.php');
                             <div class="row">
                                 <div class="col-lg-9 col-md-7 col-12 col-sm-12">
                                     <div class="slider-content slider-animated-1 pt-230">
-                                        <h1 class="animated" >Lista de Todos los Productos</h1>
+                                        <h1 class="animated" >Lista de Productos</h1>
                                         <p class="animated" > seleccione uno de los productos para agregarlos al carrito de compras. </p>
                                         <div class="slider-btn">
                                             <a class="animated default-btn btn-green-color fa fa-dog" href="perros.php"> Perros</a>
