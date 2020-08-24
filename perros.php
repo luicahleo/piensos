@@ -75,23 +75,27 @@ require_once('includes/header.php');
                     <div class="tab-content jump">
                         <div id="shop-1" class="tab-pane active">
                             <div class="row">
+
+                                <!-- solo entran 4 productos por fila -->
+
+                                <!-- primer producto  huesitos_adultos-->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
                                             <a href="single-product.html"><img src="assets/img/product/huesitos_adultos.jpg" alt=""></a>
-                                            <span>Sale</span>
+                                            <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
                                                 <div class="product-title">
-                                                    <h3><a href="single-product.html">Marker Pen</a></h3>
+                                                    <h3><a href="single-product.html">Huesitos adultos</a></h3>
                                                 </div>
                                                 <div class="product-rating">
                                                     <i class="zmdi zmdi-star"></i>
@@ -102,29 +106,30 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$10</span>
+                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-price">bs.135</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <!-- segundo producto -->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-2.jpg" alt=""></a>
+                                            <a href="single-product.html"><img  src="assets/img/product/alimento_raza_23kg.jpg"   alt=""></a>
+                                            <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
                                                 <div class="product-title">
-                                                    <h3><a href="single-product.html">Color Pencil</a></h3>
+                                                    <h3><a href="single-product.html">Raza</a></h3>
                                                 </div>
                                                 <div class="product-rating">
                                                     <i class="zmdi zmdi-star"></i>
@@ -135,30 +140,30 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$20</span>
+                                                <span class="pro-category">bolsa 23 kg.</span>
+                                                <span class="pro-price">bs.170</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <!-- tercer producto -->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-3.jpg" alt=""></a>
-                                            <span>New</span>
+                                            <a href="single-product.html"><img src="assets/img/product/purina_dogui.jpg" alt=""></a>
+                                            <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
                                                 <div class="product-title">
-                                                    <h3><a href="single-product.html">Color Box</a></h3>
+                                                    <h3><a href="single-product.html">Huesitos adultos</a></h3>
                                                 </div>
                                                 <div class="product-rating">
                                                     <i class="zmdi zmdi-star"></i>
@@ -169,29 +174,30 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$30</span>
+                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-price">bs.135</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <!-- 4to producto -->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-4.jpg" alt=""></a>
+                                            <a href="single-product.html"><img src="assets/img/product/dog_chow_cachorros.jpg" alt=""></a>
+                                            <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
                                                 <div class="product-title">
-                                                    <h3><a href="single-product.html">Toy mobile</a></h3>
+                                                    <h3><a href="single-product.html">Dog Chow Cachorros</a></h3>
                                                 </div>
                                                 <div class="product-rating">
                                                     <i class="zmdi zmdi-star"></i>
@@ -202,279 +208,15 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$40</span>
+                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-price">bs.135</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-5.jpg" alt=""></a>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Awesome vase</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$50</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-6.jpg" alt=""></a>
-                                            <span>Sale</span>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Ceramic vase</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$60</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-7.jpg" alt=""></a>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Smart Watch</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$70</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-8.jpg" alt=""></a>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">History Book</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$80</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/huesitos_adultos.jpg" alt=""></a>
-                                            <span>Sale</span>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Color Box</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$90</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-12.jpg" alt=""></a>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Marker Pen</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$10</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-10.jpg" alt=""></a>
-                                            <span>New</span>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Softball Gloves</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Drawing</span>
-                                                <span class="pro-price">$20</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
-                                    <div class="product-wrap mb-30">
-                                        <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-11.jpg" alt=""></a>
-                                            <div class="product-action">
-                                                <ul>
-                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>
-                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="product-content">
-                                            <div class="pro-title-rating-wrap">
-                                                <div class="product-title">
-                                                    <h3><a href="single-product.html">Color Box</a></h3>
-                                                </div>
-                                                <div class="product-rating">
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                    <i class="zmdi zmdi-star"></i>
-                                                </div>
-                                            </div>
-                                            <div class="pro-category-price">
-                                                <span class="pro-category">Skating Shoes</span>
-                                                <span class="pro-price">$30</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
+                                <!-- 2da fila -->
+
                             </div>
                         </div>
                         <div id="shop-2" class="tab-pane">
