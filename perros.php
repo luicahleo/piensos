@@ -78,16 +78,15 @@ require_once('includes/header.php');
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-1.jpg" alt=""></a>
+                                            <a href="single-product.html"><img src="assets/img/product/huesitos_adultos.jpg" alt=""></a>
                                             <span>Sale</span>
-<!--                                            <div class="product-action">-->
-<!--                                                <ul>-->
-<!--                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>-->
-<!--                                                    <li><a title="Compare" href="#"><i class="fa fa-random"></i></a></li>-->
-<!--                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>-->
-<!--                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>-->
-<!--                                                </ul>-->
-<!--                                            </div>-->
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Add To Cart" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Wishlist" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Quick View" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
                                         </div>
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
@@ -345,7 +344,7 @@ require_once('includes/header.php');
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/pro-1.jpg" alt=""></a>
+                                            <a href="single-product.html"><img src="assets/img/product/huesitos_adultos.jpg" alt=""></a>
                                             <span>Sale</span>
                                             <div class="product-action">
                                                 <ul>
