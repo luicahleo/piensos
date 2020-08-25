@@ -19,6 +19,14 @@ require_once('includes/header.php');
         </div>
     </div>
 </div>
+<?php
+
+echo "<h1>PAGINA EN CONSTRUCCION</h1>";
+
+die();
+
+
+?>
 <div class="contact-area pt-130 pb-130">
     <div class="container">
         <div class="row align-items-center">

@@ -28,21 +28,21 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                                        <div class="footer-widget mb-40">
-                                            <div class="footer-title">
-                                                <h4>GALERIA</h4>
-                                            </div>
-                                            <div class="footer-gallery">
-                                                <ul>
-                                                    <li><a href="#"><img src="assets/img/gallery/gallery-1.png" alt=""></a></li>
-                                                    <li><a href="#"><img src="assets/img/gallery/gallery-2.png" alt=""></a></li>
-                                                    <li><a href="#"><img src="assets/img/gallery/gallery-3.png" alt=""></a></li>
-                                                    <li><a href="#"><img src="assets/img/gallery/gallery-4.png" alt=""></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+<!--                    <div class="col-lg-2 col-md-6 col-sm-6">-->
+<!--                                        <div class="footer-widget mb-40">-->
+<!--                                            <div class="footer-title">-->
+<!--                                                <h4>GALERIA</h4>-->
+<!--                                            </div>-->
+<!--                                            <div class="footer-gallery">-->
+<!--                                                <ul>-->
+<!--                                                    <li><a href="#"><img src="assets/img/gallery/gallery-1.png" alt=""></a></li>-->
+<!--                                                    <li><a href="#"><img src="assets/img/gallery/gallery-2.png" alt=""></a></li>-->
+<!--                                                    <li><a href="#"><img src="assets/img/gallery/gallery-3.png" alt=""></a></li>-->
+<!--                                                    <li><a href="#"><img src="assets/img/gallery/gallery-4.png" alt=""></a></li>-->
+<!--                                                </ul>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
 
 
                 </div>

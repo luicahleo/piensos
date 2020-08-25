@@ -10,42 +10,41 @@ require_once('includes/header.php');
 
 
 <div class="breadcrumb-area">
-    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/perros_breadcrumb.jpg);">
+    <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg-4.jpg);">
         <div class="container">
 
 
             <div class="slider-area">
                 <div class="slider-active owl-carousel">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-9 col-md-7 col-12 col-sm-12">
-                                    <div class="slider-content slider-animated-1 pt-230">
-                                        <h1 class="animated" >Productos para perros</h1>
-                                        <div class="slider-btn">
-                                            <a class="animated default-btn btn-green-color fa fa-dog" href="perros.php"> Perros</a>
-                                            <a class="animated default-btn btn-green-color fa fa-cat" href="gatos.php"> Gatos</a>
-                                        </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-9 col-md-7 col-12 col-sm-12">
+                                <div class="slider-content slider-animated-1 pt-230">
+                                    <h1 class="animated" >Lista de Todos los Productos</h1>
+                                    <p class="animated" > seleccione uno de los productos para agregarlos al carrito de compras. </p>
+                                    <div class="slider-btn">
+                                        <a class="animated default-btn btn-green-color fa fa-dog" href="perros.php"> Perros</a>
+                                        <a class="animated default-btn btn-green-color fa fa-cat" href="gatos.php"> Gatos</a>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
+
+                    </div>
 
                 </div>
             </div>
 
         </div>
     </div>
-    <div class="breadcrumb-bottom">
-        <div class="container">
-            <ul>
-                <li><a class="animated default-btn btn-green-color" href="shop.php">Todos los productos</a></li>
-
-            </ul>
-        </div>
+</div>
+<div class="breadcrumb-bottom">
+    <div class="container">
+        <ul>
+            <li><a class="animated default-btn btn-green-color" href="shop.php">Todos los productos</a></li>
+        </ul>
     </div>
 </div>
-
 <div class="event-area pt-130 pb-130">
     <div class="container">
         <div class="row">
@@ -60,14 +59,14 @@ require_once('includes/header.php');
                         </div>
                         <p>Mostrando productos en stock</p>
                     </div>
-<!--                    <div class="shop-select">-->
-<!--                        <select>-->
-<!--                            <option value="">Sort By Popularity</option>-->
-<!--                            <option value="">A to Z</option>-->
-<!--                            <option value=""> Z to A</option>-->
-<!--                            <option value="">In stock</option>-->
-<!--                        </select>-->
-<!--                    </div>-->
+                    <!--                    <div class="shop-select">-->
+                    <!--                        <select>-->
+                    <!--                            <option value="">Sort By Popularity</option>-->
+                    <!--                            <option value="">A to Z</option>-->
+                    <!--                            <option value=""> Z to A</option>-->
+                    <!--                            <option value="">In stock</option>-->
+                    <!--                        </select>-->
+                    <!--                    </div>-->
                 </div>
                 <div class="shop-bottom-area mt-30">
                     <div class="tab-content jump">
@@ -75,7 +74,7 @@ require_once('includes/header.php');
                             <div class="row">
 
 
-                                <!-- primer producto  huesitos_cachorros-->
+                                <!--  producto 0 huesitos_cachorros-->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
@@ -207,7 +206,7 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-category">bolsa 21 kg.</span>
                                                 <span class="pro-price">bs.240</span>
                                             </div>
                                         </div>
@@ -241,8 +240,8 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">bolsa 20 kg.</span>
-                                                <span class="pro-price">bs.135</span>
+                                                <span class="pro-category">bolsa 21 kg.</span>
+                                                <span class="pro-price">bs.230</span>
                                             </div>
                                         </div>
                                     </div>
@@ -712,22 +711,22 @@ require_once('includes/header.php');
     <div class="container">
         <div class="brand-logo-active owl-carousel">
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/1.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/purina_logo.png"  style="height: 40px !important; color: grey;" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/raza_logo.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/3.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/faba.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/4.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/birbo_logo.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/5.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/logo-sofia-al-paso_1.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/6.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/royal_canin.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
                 <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>

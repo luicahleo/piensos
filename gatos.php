@@ -88,22 +88,22 @@ require_once('includes/header.php');
     <div class="container">
         <div class="brand-logo-active owl-carousel">
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/1.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/purina_logo.png"  style="height: 40px !important; color: grey;" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/raza_logo.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/3.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/faba.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/4.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/birbo_logo.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/5.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/logo-sofia-al-paso_1.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
-                <a href="#"><img src="assets/img/brand-logo/6.png" alt=""></a>
+                <a href="#"><img src="assets/img/brand-logo/royal_canin.png" alt=""></a>
             </div>
             <div class="single-brand-logo">
                 <a href="#"><img src="assets/img/brand-logo/2.png" alt=""></a>

@@ -40,7 +40,7 @@
 
                                     </li>
                                     <li><a href="about-us.php"> QUIENES SOMOS  </a></li>
-                                    <li><a href="citaprevia.php"> AGENDAR ENTREGA </a></li>
+                                    <li><a href="agendar.php"> AGENDAR ENTREGA </a></li>
 
 
                                     <li><a href="contact.php"> CONTACTANOS </a></li>
@@ -74,7 +74,7 @@
 
                             </li>
                             <li><a href="about-us.php">QUIENES SOMOS</a></li>
-                            <li><a href="citaprevia.php">AGENDAR ENTREGA</a></li>
+                            <li><a href="agendar.php">AGENDAR ENTREGA</a></li>
                             <li><a href="contact.php">contactanos</a></li>
 
                         </ul>

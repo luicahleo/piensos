@@ -69,7 +69,7 @@ require_once('includes/header.php');
                         <img src="assets/img/icon-img/achieve-1.png" alt="">
                     </div>
                     <div class="count-content">
-                        <h2 class="count">5</h2>
+                        <h2 class="count">14</h2>
                         <span>PRODUCTOS</span>
                     </div>
                 </div>
@@ -200,7 +200,7 @@ require_once('includes/header.php');
             </div>
         </div>
         <div class="testimonial-text-img">
-            <img alt="" src="assets/img/icon-img/testi-text.png">
+            <img alt="" src="assets/img/icon-img/nuestros_clientes.png">
         </div>
     </div>
 </div>

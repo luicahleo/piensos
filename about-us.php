@@ -7,12 +7,14 @@ require_once('includes/head.php');
 <?php
 require_once('includes/header.php');
 ?>
- 
+
+
     <div class="breadcrumb-area">
+
         <div class="breadcrumb-top default-overlay bg-img pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg.jpg);">
             <div class="container">
                 <h2>QUIENES SOMOS</h2>
-                <p>El programa de Intercambio Lingüístico es un instrumento que se ofrece desde el SACU para facilitar la comunicación a los universitarios españoles y extranjeros, con el fin de promover el intercambio cultural y lingüístico.</p>
+
             </div>
         </div>
         <div class="breadcrumb-bottom">
@@ -21,6 +23,14 @@ require_once('includes/header.php');
             </div>
         </div>
     </div>
+<?php
+
+echo "<h1>PAGINA EN CONSTRUCCION</h1>";
+
+die();
+
+
+?>
     <div class="choose-area bg-img pt-90" style="background-image:url(assets/img/bg/bg-8.jpg);">
         <div class="container">
             <div class="row">

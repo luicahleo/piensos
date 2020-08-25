@@ -3311,7 +3311,7 @@ textarea:focus {
     .testimonial-text-img {
       width: 100%; } }
   .testimonial-text-img img {
-    width: 100%; }
+    width: 50%; }
 
 /*------------------- home 2 ---------------*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
