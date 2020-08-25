@@ -49,9 +49,7 @@ require_once('includes/header.php');
                             <a class="active" href="#shop-1" data-toggle="tab">
                                 <i class="fa fa-table"></i>
                             </a>
-                            <a href="#shop-2" data-toggle="tab">
-                                <i class="fa fa-list-ul"></i>
-                            </a>
+
                         </div>
                         <p>Mostrando productos en stock</p>
                     </div>
@@ -69,7 +67,6 @@ require_once('includes/header.php');
                         <div id="shop-1" class="tab-pane active">
                             <div class="row">
 
-                                <!-- solo entran 4 productos por fila -->
 
                                 <!-- primer producto  huesitos_cachorros-->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
@@ -277,6 +274,288 @@ require_once('includes/header.php');
                                         </div>
                                     </div>
                                 </div>
+                                <!-- 6to producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/dog_chow_adultos.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Dog Chow Adultos</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 21 kg.</span>
+                                                <span class="pro-price">bs.330</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 7to producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/birbo_17.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Birbo Cachorros</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 15 kg.</span>
+                                                <span class="pro-price">bs.250</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 8vo producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/birbo_adultos_25k.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Birbo Adultos</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 25 kg.</span>
+                                                <span class="pro-price">bs.300</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 9no producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/birbo_adultos_25k_otro.jpg" alt=""></a>
+                                            <span>Sin aromatizantes ni <br> colorantes artificiales</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Birbo Adultos</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 25 kg.</span>
+                                                <span class="pro-price">bs.300</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- 10mo producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/podium_2_8.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Podium Cachorros</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 2,8 kg.</span>
+                                                <span class="pro-price">bs.67</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 11mo producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/podium2_2_8.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Podium Cachorros</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 2,8 kg.</span>
+                                                <span class="pro-price">bs.67</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 12mo producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/podium_adultos1.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Podium Adultos</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 2,8 kg.</span>
+                                                <span class="pro-price">bs.60</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 13mo producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/podium_adultos2.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Podium Adultos</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 2,8 kg.</span>
+                                                <span class="pro-price">bs.65</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+
+
                                 <!-- 2da fila -->
 
                             </div>

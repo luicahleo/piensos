@@ -55,9 +55,7 @@ require_once('includes/header.php');
                             <a class="active" href="#shop-1" data-toggle="tab">
                                 <i class="fa fa-table"></i>
                             </a>
-                            <a href="#shop-2" data-toggle="tab">
-                                <i class="fa fa-list-ul"></i>
-                            </a>
+
                         </div>
                         <p>Mostrando productos en stock</p>
                     </div>
