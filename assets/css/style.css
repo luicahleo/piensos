@@ -4372,7 +4372,7 @@ textarea:focus {
       transition: all .5s ease 0s;
       pointer-events: none; }
     .product-wrap .product-img a img {
-      width: 100%;
+      width: 50%;
       -webkit-transform: scale(1);
       -ms-transform: scale(1);
       transform: scale(1); }
