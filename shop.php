@@ -71,6 +71,42 @@ require_once('includes/header.php');
 
                                 <!-- solo entran 4 productos por fila -->
 
+                                <!-- primer producto  huesitos_cachorros-->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/huesitos_cachorros.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Huesitos cachorros</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-price">bs.145</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
                                 <!-- primer producto  huesitos_adultos-->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
@@ -109,7 +145,7 @@ require_once('includes/header.php');
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img  src="assets/img/product/alimento_raza_23kg.jpg"   alt=""></a>
+                                            <a href="single-product.html"><img  src="assets/img/product/raza_23.jpg"   alt=""></a>
                                             <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
@@ -143,7 +179,7 @@ require_once('includes/header.php');
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/purina_dogui.jpg" alt=""></a>
+                                            <a href="single-product.html"><img src="assets/img/product/dogui_cachorros.jpg" alt=""></a>
                                             <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
@@ -156,7 +192,41 @@ require_once('includes/header.php');
                                         <div class="product-content">
                                             <div class="pro-title-rating-wrap">
                                                 <div class="product-title">
-                                                    <h3><a href="single-product.html">Huesitos adultos</a></h3>
+                                                    <h3><a href="single-product.html">Dogui Cachorros</a></h3>
+                                                </div>
+                                                <div class="product-rating">
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                    <i class="zmdi zmdi-star"></i>
+                                                </div>
+                                            </div>
+                                            <div class="pro-category-price">
+                                                <span class="pro-category">bolsa 20 kg.</span>
+                                                <span class="pro-price">bs.240</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 4to producto -->
+                                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
+                                    <div class="product-wrap mb-30">
+                                        <div class="product-img">
+                                            <a href="single-product.html"><img src="assets/img/product/dogui_adultos.jpg" alt=""></a>
+                                            <span>Nuevo</span>
+                                            <div class="product-action">
+                                                <ul>
+                                                    <li><a title="Agregar al carrito" href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
+                                                    <li><a title="Lista de deseos" href="#"><i class="fa fa-heart-o"></i></a></li>
+                                                    <li><a title="Ver carateristicas" data-toggle="modal" data-target="#exampleModal" href="#"><i class="fa fa-eye"></i></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="pro-title-rating-wrap">
+                                                <div class="product-title">
+                                                    <h3><a href="single-product.html">Dogui Adultos</a></h3>
                                                 </div>
                                                 <div class="product-rating">
                                                     <i class="zmdi zmdi-star"></i>
@@ -173,7 +243,7 @@ require_once('includes/header.php');
                                         </div>
                                     </div>
                                 </div>
-                                <!-- 4to producto -->
+                                <!-- 5to producto -->
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
@@ -201,13 +271,12 @@ require_once('includes/header.php');
                                                 </div>
                                             </div>
                                             <div class="pro-category-price">
-                                                <span class="pro-category">bolsa 20 kg.</span>
-                                                <span class="pro-price">bs.135</span>
+                                                <span class="pro-category">bolsa 21 kg.</span>
+                                                <span class="pro-price">bs.340</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-
                                 <!-- 2da fila -->
 
                             </div>
