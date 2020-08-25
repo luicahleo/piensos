@@ -235,7 +235,7 @@ require_once('includes/header.php');
                                             </div>
                                             <div class="pro-category-price">
                                                 <span class="pro-category">bolsa 21 kg.</span>
-                                                <span class="pro-price">bs.235</span>
+                                                <span class="pro-price">bs.230</span>
                                             </div>
                                         </div>
                                     </div>
