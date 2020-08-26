@@ -13,8 +13,8 @@
                 <div class="col-lg-6 col-md-5 col-12 col-sm-4">
                     <div class="login-register">
                         <ul>
-                            <li><a href="../login.php">Iniciar sesion</a></li>
-                            <li><a href="../register.php">Registrarse</a></li>
+                            <li><a href="login.php">Iniciar sesion</a></li>
+                            <li><a href="register.php">Registrarse</a></li>
                         </ul>
                     </div>
                 </div>

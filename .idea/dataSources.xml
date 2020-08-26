@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/admin_intercambio_linguistico</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="piensos" uuid="32318baa-7b84-4401-9380-cef7e6248c96">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/piensos_db</jdbc-url>
+    </data-source>
   </component>
 </project>

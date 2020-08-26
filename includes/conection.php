@@ -1,9 +1,9 @@
 <?php
 
     $server = 'localhost';
-    $username = 'admin_solucian';
+    $username = 'usuario_piensos';
     $password = '121212';
-    $database = 'admin_intercambio_linguistico';
+    $database = 'piensos_db';
     $db = mysqli_connect($server, $username, $password, $database);
 
     //verificamos si hay algun problema con la conexion

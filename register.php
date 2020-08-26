@@ -8,13 +8,12 @@ $msg="";
 //se crean las variables para guardar datos del usuario a crear.
 //estas variables también servirán para repoblar los formularios.
 $nombre="";
-$uvus="";
 $email="";
 $password="";
 $repite_password="";
 
 
-if( isset($_POST['email']) && isset($_POST['password']) && isset($_POST['retry-password']) && isset($_POST['terms']) && isset($_POST['name']) && isset($_POST['uvus'])) {
+if( isset($_POST['email']) && isset($_POST['password']) && isset($_POST['retry-password']) && isset($_POST['terms']) && isset($_POST['name']) ) {
 
   if ($_POST['email']==""){
     $msg.= "Debe ingresar un email <br>";
@@ -28,7 +27,6 @@ if( isset($_POST['email']) && isset($_POST['password']) && isset($_POST['retry-p
     $msg.="Debe repetir la clave <br>";
   }
   $nombre = strip_tags($_POST['name']);
-  $uvus = strip_tags($_POST['uvus']);
   $email = strip_tags($_POST['email']);
   $password = strip_tags($_POST['password']);
   $repite_password = strip_tags($_POST['retry-password']);
@@ -57,12 +55,11 @@ if( isset($_POST['email']) && isset($_POST['password']) && isset($_POST['retry-p
       $password = sha1($password); //encriptar clave con sha1
 
 
-    $db->query("INSERT INTO `usuario` (`usuario_nombre`,`usuario_uvus`,`usuario_email`, `usuario_password`, `usuario_ip`, `usuario_imagen`) VALUES ('".$nombre."','".$uvus."','".$email."', '".$password."', '".$ip."', '');");
+    $db->query("INSERT INTO `usuario` (`usuario_nombre`,`usuario_email`, `usuario_password`, `usuario_ip`, `usuario_imagen`) VALUES ('".$nombre."', '".$email."', '".$password."', '".$ip."', '');");
     //   $mysqli->query("INSERT INTO `prueba` (`prueba_nombre`,`prueba_uvus`,`prueba_email`,`prueba_ip`,`prueba_password`,`prueba_imagen`) VALUES ('".$nombre."', '".$uvus."', '".$email."', '".$ip."', '".$password."', '');");
       $msg.="Usuario creado correctamente, ingrese haciendo  <b><a href='login.php'>clic aquí</a></b> <br>";
       
       $nombre="";
-      $uvus="";
       $email="";
       $password="";
       $repite_password="";
@@ -114,11 +111,9 @@ require_once('includes/header.php');
                                       <h1 class="title-login-register"> Registrarse </h1>
 
                                         <form action="register.php" method="post">
-                                            <p id="notificacion">Nota: Para poder registrarse usted necesita tener una cuenta UVUS</p>
                                             <p>(*)campos obligatorios</p>
 
                                             <input type="text" name="name" placeholder="Nombre completo*" value="<?php echo $nombre; ?>" >
-                                            <input type="text" name="uvus" placeholder="Usuario UVUS*" value="<?php echo $uvus; ?>" >
                                             <input name="email" type="email" placeholder="Email*" value="<?php echo $email; ?>" required>
                                             <input name="password" type="password"  placeholder="Contraseña*"  required>
                                             <input name="retry-password" type="password"  placeholder="Repita contraseña*" required>
@@ -127,7 +122,7 @@ require_once('includes/header.php');
                                                         <div class="icheck-primary">
                                                           <input type="checkbox" id="agreeTerms" name="terms" required>
                                                           <label for="agreeTerms">
-                                                           Acepto los <a href="https://google.com"><b>terminos y condiciones</b></a>
+                                                           Acepto los <a href="terminos_condiciones.php"><b>terminos y condiciones</b></a>
                                                           </label>
                                                         </div>
 

@@ -75,10 +75,8 @@ $msg2 = "";
                         <h2 class="form-box-header">Panel de control </h2>
 
 
-                        <p class="well">El programa de Intercambio Lingüístico es un instrumento que se ofrece desde el SACU para facilitar la comunicación a los universitarios españoles y extranjeros, con el fin de promover el intercambio cultural y lingüístico.
-                                Se pretenden "encuentros" entre los universitarios españoles y extranjeros, para mantener una interacción que permita mejorar sus habilidades comunicativas y/o ampliar sus conocimientos sobre la lengua, la sociedad y la cultura del país al que pertenecen.
-                                Este programa consta de dos modalidades: <br>
-                                    Tándem: participan dos personas que realizan intercambio lingüístico durante un tiempo determinado por ellos mismos y de forma periódica. En la guía de uso de esta actividad  puedes ver cómo funciona. </p>
+                        <p class="well">En este panel de control podra encontrar configuraciones personales y preferencias de compra como agendar entregas.  <br>
+                                     </p>
 
 
                     

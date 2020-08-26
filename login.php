@@ -15,7 +15,7 @@ if(isset($_POST['email']) && isset($_POST['password'])) {
     $email = strip_tags($_POST['email']);
     $password= sha1(strip_tags($_POST['password']));
 
-    $mysqli = mysqli_connect("localhost","admin_solucian","121212","admin_intercambio_linguistico");
+    $mysqli = mysqli_connect("localhost","usuario_piensos","121212","piensos_db");
 
     if ($mysqli==false){
       echo "Hubo un problema al conectarse a María DB";
@@ -38,7 +38,6 @@ if(isset($_POST['email']) && isset($_POST['password'])) {
       $_SESSION['usuario'] = $usuario;
 
       $_SESSION['usuario_nombre'] = $usuario[0]['usuario_nombre'];
-      $_SESSION['usuario_uvus'] = $usuario[0]['usuario_uvus'];
       $_SESSION['usuario_id'] = $usuario[0]['usuario_id'];
       $_SESSION['usuario_email'] = $usuario[0]['usuario_email'];
       $_SESSION['usuario_ultimo_login'] = $usuario[0]['usuario_ultimo_login'];
