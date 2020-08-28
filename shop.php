@@ -72,7 +72,7 @@ require_once('includes/header.php');
                                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                                     <div class="product-wrap mb-30">
                                         <div class="product-img">
-                                            <a href="single-product.html"><img src="assets/img/product/huesitos_cachorros.jpg" alt=""></a>
+                                            <a href="#"><img src="assets/img/product/huesitos_cachorros.jpg" alt=""></a>
                                             <span>Nuevo</span>
                                             <div class="product-action">
                                                 <ul>
