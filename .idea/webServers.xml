@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c49c78e6-8540-4813-9c1b-6ba68cab5c90" name="elleylui" url="http://elleylui.telecomunicacionestrajano.es">
-        <fileTransfer rootFolder="/httpdocs" host="elleylui.telecomunicacionestrajano.es" port="21">
+      <webServer id="10884d04-725c-4d02-8983-a09c9ad4bc8e" name="piensos" url="https://lacasadelpienso.telecomunicacionestrajano.es">
+        <fileTransfer rootFolder="/httpdocs/" host="217.76.159.70" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

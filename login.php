@@ -15,7 +15,8 @@ if(isset($_POST['email']) && isset($_POST['password'])) {
     $email = strip_tags($_POST['email']);
     $password= sha1(strip_tags($_POST['password']));
 
-    $mysqli = mysqli_connect("localhost","usuario_piensos","121212","piensos_db");
+    //probando
+    $mysqli = mysqli_connect("localhost","usuario_piensos","LuisRolando10051982","piensos_db");
 
     if ($mysqli==false){
       echo "Hubo un problema al conectarse a María DB";
