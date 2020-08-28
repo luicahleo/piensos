@@ -84,7 +84,7 @@ require_once('includes/header.php');
     <div class="breadcrumb-area">
         <div class="breadcrumb-top default-overlay bg-img breadcrumb-overly-4 pt-100 pb-95" style="background-image:url(assets/img/bg/breadcrumb-bg-4.jpg);">
             <div class="container">
-                <h2>Registrar</h2>
+                <h2>Registrarse</h2>
                 <p></p>
             </div>
         </div>
@@ -108,10 +108,9 @@ require_once('includes/header.php');
 
                                 <div class="login-form-container">
                                     <div class="login-register-form">
-                                      <h1 class="title-login-register"> Registrarse </h1>
 
                                         <form action="register.php" method="post">
-                                            <p>(*)campos obligatorios</p>
+                                            <p style="color: #20b6e2; font-weight: bold;">(*)campos obligatorios</p>
 
                                             <input type="text" name="name" placeholder="Nombre completo*" value="<?php echo $nombre; ?>" >
                                             <input name="email" type="email" placeholder="Email*" value="<?php echo $email; ?>" required>

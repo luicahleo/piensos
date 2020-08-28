@@ -92,7 +92,6 @@ require_once('includes/header.php');
 
                                 <div class="login-form-container">
                                     <div class="login-register-form">
-                                      <h1 class="title-login-register"> Iniciar sesion </h1>
 
                                         <form action="login.php" method="post">
                                             <input type="text" name="email" placeholder="Email">
