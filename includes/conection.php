@@ -2,7 +2,7 @@
 
     $server = 'localhost';
     $username = 'usuario_piensos';
-    $password = '121212';
+    $password = 'LuisRolando10051982';
     $database = 'piensos_db';
     $db = mysqli_connect($server, $username, $password, $database);
 
