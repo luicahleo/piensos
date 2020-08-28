@@ -1601,7 +1601,7 @@ header.navbar {
 }
 
 .navbar.navbar-inverse {
-    background: #951419;
+    background: #059635;
 }
 
 .navbar .navbar-brand {
@@ -2280,7 +2280,7 @@ a.list-group-item {
 
 /* Links */
 a {
-    color: #db4a39;
+    color: #059635;
 }
 
 a:hover,
