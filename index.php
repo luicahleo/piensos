@@ -205,6 +205,42 @@ require_once('includes/header.php');
     </div>
 </div>
 
+<!-- Modal -->
+<div class="modal fade" id="promocion" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-5 col-sm-12 col-xs-12">
+                        <div class="tab-content quickview-big-img">
+                            <div id="pro-1" class="tab-pane fade show active">
+                                <img src="archivos/logos/logo.png" alt="">
+                            </div>
+
+                        </div>
+                        <!-- Thumbnail Large Image End -->
+                        <!-- Thumbnail Image End -->
+
+                    </div>
+                    <div class="col-md-7 col-sm-12 col-xs-12">
+                        <div class="product-details-content quickview-content">
+                            <div class="pro-details-rating-wrap">
+
+                            </div>
+                            <h1 style="color: #C97626; font-weight: bold;">DELIVERY GRATIS!!!</h1>
+                            <h3 style="color: #3f8edf">a partir de 2 bolsas de cualquiera de nuestros productos</h3>
+                            <h5 style="color: red">promocion valida solo para la zona de Cercado</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal end -->
 
 
 

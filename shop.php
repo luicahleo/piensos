@@ -729,7 +729,6 @@ require_once('includes/header.php');
     </div>
 </div>
 
-
 <?php
  include_once ('modal/modals.php');
 ?>

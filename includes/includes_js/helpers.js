@@ -199,6 +199,14 @@ function isset(variable) {
 
 window.addEventListener("load", function () {
 
+
+    //aqui activaremos el modal "promocion" que esta en index.php
+    $(function () {
+        $('#promocion').modal();
+
+    })
+
+
     //ocultamos los select de los horarios
     var ocultar = true;
     var select = document.getElementsByTagName('select');
