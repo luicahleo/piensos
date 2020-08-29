@@ -232,7 +232,7 @@ require_once('includes/header.php');
                             </div>
                             <h1 style="color: #C97626; font-weight: bold;">DELIVERY GRATIS!!!</h1>
                             <h3 style="color: #3f8edf">a partir de 2 bolsas de cualquiera de nuestros productos</h3>
-                            <h5 style="color: red">promocion valida solo para la zona de Cercado</h5>
+                            <h5 style="color: red">promocion valida solo para la zona de Cercado o Quillacollo</h5>
                         </div>
                     </div>
                 </div>
